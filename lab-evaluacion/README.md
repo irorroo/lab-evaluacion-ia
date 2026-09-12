@@ -75,13 +75,6 @@ Esto crea/actualiza `data/dataset.csv` y las imágenes en `outputs/`.
 
 ![Clusters PCA](outputs/clusters_pca.png)
 
-## 4. Respuestas a las preguntas de control
-
-> ⚠️ El enunciado indica que hay 3 preguntas de control al final, pero
-> no venían incluidas en el archivo entregado. Reemplaza esta sección
-> con las respuestas una vez que tengas el enunciado completo de las
-> preguntas.
-
 - **Pregunta 1:** _(pendiente)_
 - **Pregunta 2:** _(pendiente)_
 - **Pregunta 3:** _(pendiente)_
